@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
@@ -48,3 +49,45 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+=======
+# Casino Slots Game
+
+A mobile casino slots game built with React Native and Expo featuring multiple slot machines with different themes and winning combinations.
+
+## Features
+
+- Three different slot machines:
+  - Fruit Machine (Easy, low stakes)
+  - Diamond Machine (Medium difficulty)
+  - Classic Machine (Hard, high stakes)
+- Global coin management system
+- Shop to purchase coins
+- Auto-spin functionality
+- Winning animations with fireworks
+- Different winning combinations and payouts
+- Persistent coin balance
+
+## Slot Machines
+
+### Fruit Machine
+- Low cost: 25 coins per spin
+- Equal probability for all symbols
+- Symbols: 🍎 🍌 🍇 🍋 🍒
+- Max win: 100 coins
+
+### Diamond Machine
+- Medium cost: 75 coins per spin
+- Medium difficulty
+- Symbols: 💎 💍 👑 💰 ⭐
+- Max win: 500 coins
+
+### Classic Machine
+- High cost: 150 coins per spin
+- Hardest difficulty
+- Symbols: 7️⃣ 👾 🎱 🎰 ♠️
+- Max win: 2000 coins
+
+## Installation
+
+1. Clone the repository:
+>>>>>>> eeedda2a8a634a1325cd20264a09dcb6667a9ecd
